@@ -1,2 +1,13 @@
-body{background-image:
+body {
+    background-image: url("../images/ladytrain.jpg");
+ }
+ .jumbotron {
+    opacity: 0.7;
+    color:black;
+    
+}
+
+.trainList
+{
+    margin-bottom:20px;
 }
